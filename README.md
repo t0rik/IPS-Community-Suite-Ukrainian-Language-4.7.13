@@ -15,5 +15,5 @@ Ukrainian language pack for Invision Community v 4.7.x. Перекладено 1
 При виявленні бага або неточності в перекладі ви можете повідомити про це на вкладці Issues, ми обов'язково розглянемо всі пропозиції та виправимо виявлені неточності. Ви також можете брати участь у покращенні перекладу шляхом пропозиції своїх варіантів перекладу тих чи інших рядків!
 
 
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ft0rik%2FIPS-Community-Suite-Ukrainian-Language-4.7.13&label=Visitors&countColor=%23263759)
  
